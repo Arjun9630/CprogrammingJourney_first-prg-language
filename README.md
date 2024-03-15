@@ -12,6 +12,8 @@ Here, you'll find various small projects that I've built while exploring the fun
 - **Project 1:** [BMI Calculator]
   - Description: [Helps calculate BMI in 2 different scales and gives you your feedback based on WHO BMI Index!]
 
+- **Project 2:** [Rock Paper Scissor game]
+  - Description: [A fun game!]
 
   
 To explore the projects in this repository, simply navigate to each project's directory and view the source code. 
