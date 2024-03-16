@@ -14,7 +14,7 @@ Here, you'll find various small projects that I've built while exploring the fun
 
 - **Project 2:** [Number Guessing Game]
   - Description: [A fun game!]
-  - 
+    
 - **Project 3:** [Rock Paper Scissor Game]
   - Description: [A fun game!]
 
