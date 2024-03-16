@@ -12,7 +12,10 @@ Here, you'll find various small projects that I've built while exploring the fun
 - **Project 1:** [BMI Calculator]
   - Description: [Helps calculate BMI in 2 different scales and gives you your feedback based on WHO BMI Index!]
 
-- **Project 2:** [Rock Paper Scissor game]
+- **Project 2:** [Number Guessing Game]
+  - Description: [A fun game!]
+  - 
+- **Project 3:** [Rock Paper Scissor Game]
   - Description: [A fun game!]
 
   
