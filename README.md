@@ -18,6 +18,7 @@ Here, you'll find various small projects that I've built while exploring the fun
 - **Project 3:** [Rock Paper Scissor Game]
   - Description: [A fun game!]
 
+
   
 To explore the projects in this repository, simply navigate to each project's directory and view the source code. 
 Feel free to clone this repository to your local machine to experiment with the code or contribute to it!
