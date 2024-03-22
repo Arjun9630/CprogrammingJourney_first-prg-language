@@ -12,10 +12,13 @@ Here, you'll find various small projects that I've built while exploring the fun
 - **Project 1:** [BMI Calculator]
   - Description: [Helps calculate BMI in 2 different scales and gives you your feedback based on WHO BMI Index!]
 
-- **Project 2:** [Number Guessing Game]
+- **Project 2:** [Dice]
+  - Description: [Gives you a random number from 1-6 every time you input 's' & exits the program by passing any other input!!!]
+
+- **Project 3:** [Number Guessing Game]
   - Description: [A fun game!]
     
-- **Project 3:** [Rock Paper Scissor Game]
+- **Project 4:** [Rock Paper Scissor Game]
   - Description: [A fun game!]
 
 
