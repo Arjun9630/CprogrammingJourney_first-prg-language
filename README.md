@@ -1,23 +1,22 @@
-# Java Programming Journey: 
+# C Programming Journey: My First Programming Language
 
-Welcome to my Java Programming Journey repository! 🚀
+Welcome to my C Programming Journey repository! 🚀
 
 ## Introduction
 
-Welcome to my Java learning journey! 🚀 This repository serves as a collection of my Java programs, projects, and coding exercises as I explore and learn the fundamentals of Java programming language.
-
-As a beginner in Java, I'm excited to share my progress and showcase the various concepts and techniques I've been learning. From basic syntax and data structures to more advanced topics like object-oriented programming and algorithmic challenges, you'll find a variety of code examples and mini projects here.
-
-Feel free to explore the repository, dive into the code, and follow along with my learning journey. Whether you're also learning Java or just curious about my projects, I hope you find something useful and inspiring!
+This repository serves as a collection of my mini projects as I embark on my journey to learn C programming, which happens to be my first programming language. 
+Here, you'll find various small projects that I've built while exploring the fundamentals of C programming.
 
 ## Projects Included
 
-- **Project 1:** [pattern_Q.java]
-  - Description: [Few basic pattern questions!]
+- **Project 1:** [BMI Calculator]
+  - Description: [Helps calculate BMI in 2 different scales and gives you your feedback based on WHO BMI Index!]
 
-- **Project 2:** [pattern_adv_Q.java]
-  - Description: [Few advanced pattern questions!]
+- **Project 2:** [Dice]
+  - Description: [Gives you a random number from 1-6 every time you input 's' & exits the program by passing any other input!!!]
 
-  
-To explore the projects in this repository, simply navigate to each project's directory and view the source code. 
-Feel free to clone this repository to your local machine to experiment with the code or contribute to it!
+- **Project 3:** [Number Guessing Game]
+  - Description: [A fun game!]
+    
+- **Project 4:** [Rock Paper Scissor Game]
+  - Description: [A fun game!]
