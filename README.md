@@ -1,6 +1,6 @@
-# C Programming Journey: My First Programming Language
+# Java Programming Journey: 
 
-Welcome to my C Programming Journey repository! 🚀
+Welcome to my Java Programming Journey repository! 🚀
 
 ## Introduction
 
