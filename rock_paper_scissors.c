@@ -4,7 +4,7 @@
 
 int game_decision(char computer, char our_choice);
 
-int main(){
+int main(){ //main method start!!
     int My_score = 0, Comp_score = 0;
     for(int i = 0; i<10; i++){
     char computer, our_choice;
@@ -21,18 +21,18 @@ int main(){
         computer = 'z';
     }
 
-    printf("\t\t\t\t\t\t\t\t\tSTONE!!! PAPER!! SCISSOR!!\n");
+    printf("\t\t\t\t\t\t\t\t\tSTONE!!! PAPER!! SCISSOR!!\n"); 
 
-    printf("Enter 's' for STONE, 'p' for PAPER, 'z' for SCISSOR = ");
+    printf("Enter 's' for STONE, 'p' for PAPER, 'z' for SCISSOR = ");   //Choice list!!
     scanf(" %c", &our_choice);
 
     if (our_choice != 's' && our_choice != 'p' && our_choice != 'z') {
         printf("Invalid choice. Please enter 's', 'p', or 'z'.\n");
-        continue; // error code
+        continue; // error code!!
     }
-    int decision = game_decision(computer, our_choice);
+    int decision = game_decision(computer, our_choice); //calling decision method!!
 
-    if (decision == 0){
+    if (decision == 0){    //Winner of the round decision!!
     printf("\nBrh Its A Draw!!!\n");
     }
     else if(decision == 1){
@@ -44,11 +44,11 @@ int main(){
         Comp_score++;
     }
 
-    printf("%c is your choice and %c is computer's choice", our_choice, computer);
+    printf("%c is your choice and %c is computer's choice", our_choice, computer); // Selection display by both user and computer!!
 
-    printf("\n\nCurrent score : Your Score = %d & Computer's Score = %d\n\n", My_score, Comp_score);
+    printf("\n\nCurrent score : Your Score = %d & Computer's Score = %d\n\n", My_score, Comp_score); //Score count!!
     }
-    if(My_score > Comp_score){
+    if(My_score > Comp_score){     //Final result statement!!
         printf("\n\n You Win the match!! Well played!!\n");
     }
     else{
@@ -56,9 +56,9 @@ int main(){
     }
     printf("Final score :\n Your Score = %d\n Computer's Score = %d\n", My_score, Comp_score);
     return 0;
-}
+} // main method termination!!
 
-int game_decision(char computer, char our_choice){
+int game_decision(char computer, char our_choice){    //Decision method!!
     if(computer == our_choice){
         return 0;
     }
